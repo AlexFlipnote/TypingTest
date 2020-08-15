@@ -29,29 +29,27 @@
         <button id="reset">{{ language['reset'] }}</button>
       </div>
       <div id="render-text"></div>
-      <div id="your-attempt"></div>
+      <textarea name="" id="your-attempt" autofocus autocomplete="off"></textarea>
       <p class="emerald-text" id="start-text">{{ language['start_text'] }}</p>
-      <textarea name="" id="your-typing" autofocus autocomplete="off"></textarea>
 
       <script>
-        let speedtest = new WordManager({
-          words: {{ words | safe }},
-          render_text: "render-text"
-        })
+        window.TranslationData = {
+          FINISH_WORD: "{{ language['finish_word'] }}"
+        }
+
+        const speedtest = new WordManager({{ words | safe }}, "render-text")
+        speedtest.pickWords()
         speedtest.render()
 
         document.body.addEventListener("click", event => {
-          document.getElementById("your-typing").focus()
+          document.getElementById("your-attempt").focus()
         })
 
         document.getElementById("reset").addEventListener("click", event => {
           speedtest.reset()
         })
 
-        document.getElementById("your-typing").addEventListener("keypress", event => {
-          let words = document.getElementById("your-attempt")
-          speedtest.keypress(words, event)
-        })
+        document.getElementById("your-attempt").addEventListener("keydown", event => speedtest.keydown(event))
       </script>
     </div>
   </body>

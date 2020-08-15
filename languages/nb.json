@@ -9,6 +9,7 @@
   "_SELECT_LANGUAGES": "Velg språk...",
   "_DESCRIPTION": "Hvor fort kan du skrive? Finn ut i dag med skrive test!",
   "_START_TEXT": "Testen starter når du starter å skrive.",
+  "_FINISH_WORD": "",
   "words": [
     "dyktig", "om", "over", "handling", "legge", "etter", "igjen",
     "imot", "år", "siden", "luft", "alt", "også", "alltid",
