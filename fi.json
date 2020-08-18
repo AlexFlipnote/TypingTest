@@ -1,6 +1,6 @@
 {
   "_author": "steir#7264",
-  "language": "Suomi (FI)",
+  "language": "Finnish (FI)",
   "language_code": "fi",
   "emoji": "https://twemoji.maxcdn.com/2/72x72/1f1eb-1f1ee.png",
   "_TRANSLATED_BY": "Kääntänyt",
@@ -15,7 +15,7 @@
   "_FINISH_OVERLAY": "Valmis",
   "_SMALL_SCREEN": "Näyttösi on liian pieni ottaaksesi testin...",
   "_FINAL_FINAL_SCORE": "Lopputuloksesi: [CPM] (joka on [WPM] WPM)",
-  "_FINAL_TEXT_WIN": "Hyvin tehty, kirjoitit kaikki[WORDS] sanat virheettömästi!",
+  "_FINAL_TEXT_WIN": "Hyvin tehty, kirjoitit kaikki [WORDS] sanat virheettömästi!",
   "_FINAL_TEXT_LOSE": "Teknisesti tuloksesi oli [RAW_CPM] CPM, mutta teit [WRONG] virhettä, joita ei laskettu tulokseesi.",
   "_FINAL_BREAK": "Ota 2 minuutin tauko, olet ansainnut sen.",
   "words": [
