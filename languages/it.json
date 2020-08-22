@@ -1,7 +1,7 @@
 {
   "_author": "Dylster#0001",
   "language": "Italian (IT)",
-  "language_code": "IT",
+  "language_code": "it",
   "emoji": "https://twemoji.maxcdn.com/2/72x72/1f1ee-1f1f9.png",
   "_TRANSLATED_BY": "Tradotto da",
   "_SECONDS": "Secondi",
@@ -12,11 +12,11 @@
   "_DESCRIPTION": "Quanto veloce riesci a digitare? Scoprilo oggi con un test di battitura!",
   "_START_TEXT": "Il test inizia ogni volta che inizi a digitare.",
   "_FINISH_WORD": "Finisci la parola",
-  "_FINISH_OVERLAY": "finire",
+  "_FINISH_OVERLAY": "Finire",
   "_SMALL_SCREEN": "Lo schermo è troppo piccolo per eseguire il test di digitazione ...",
   "_FINAL_FINAL_SCORE": "Il tuo punteggio finale: [CPM] CPM (che è [WPM] WPM)",
-  "_FINAL_TEXT_WIN": "Ottimo lavoro, hai digitato tutte le [PAROLE] parole perfettamente!",
-  "_FINAL_TEXT_LOSE": "Tecnicamente avevi un punteggio di [RAW_CPM] CPM, ma hai commesso [SBAGLIATO] errori, che non sono stati conteggiati per il tuo punteggio effettivo.",
+  "_FINAL_TEXT_WIN": "Ottimo lavoro, hai digitato tutte le [WORDS] parole perfettamente!",
+  "_FINAL_TEXT_LOSE": "Tecnicamente avevi un punteggio di [RAW_CPM] CPM, ma hai commesso [MISTAKEN] errori, che non sono stati conteggiati per il tuo punteggio effettivo.",
   "_FINAL_BREAK": "Prenditi una pausa di 2 minuti, te lo sei guadagnato.",
   "words": [
     "in grado", "informazioni su", "sopra", "atto", "aggiungi", "dopo", "di nuovo",
