@@ -16,7 +16,7 @@
   "_SMALL_SCREEN": "Lo schermo è troppo piccolo per eseguire il test di digitazione ...",
   "_FINAL_FINAL_SCORE": "Il tuo punteggio finale: [CPM] CPM (che è [WPM] WPM)",
   "_FINAL_TEXT_WIN": "Ottimo lavoro, hai digitato tutte le [WORDS] parole perfettamente!",
-  "_FINAL_TEXT_LOSE": "Tecnicamente avevi un punteggio di [RAW_CPM] CPM, ma hai commesso [MISTAKEN] errori, che non sono stati conteggiati per il tuo punteggio effettivo.",
+  "_FINAL_TEXT_LOSE": "Tecnicamente avevi un punteggio di [RAW_CPM] CPM, ma hai commesso [WRONG] errori, che non sono stati conteggiati per il tuo punteggio effettivo.",
   "_FINAL_BREAK": "Prenditi una pausa di 2 minuti, te lo sei guadagnato.",
   "words": [
     "in grado", "informazioni su", "sopra", "atto", "aggiungi", "dopo", "di nuovo",
