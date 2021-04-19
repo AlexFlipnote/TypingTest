@@ -1,0 +1,26 @@
+{
+    "_author": "Noydra#0001",
+    "language": "Turkish (Turkey)",
+    "language_code": "tr",
+    "emoji": "https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/twitter/281/flag-turkey_1f1f9-1f1f7.png",
+    "_TRANSLATED_BY": "Tarafından çevrildi",
+    "_SECONDS": "Saniye",
+    "_ERRORS": "Hata",
+    "_RESET": "Sıfırlama",
+    "_TYPING_TEST": "Yazma Testi",
+    "_SELECT_LANGUAGES": "Dil seçimi",
+    "_DESCRIPTION": "Ne kadar hızlı yazabilirsin? Bunu bugün yazma testi ile öğren!",
+    "_START_TEXT": "Test, yazmaya başladığınızda başlar.",
+    "_FINISH_WORD": "Kelime bitimi.",
+    "_FINISH_OVERLAY": "Bitiş",
+    "_SMALL_SCREEN": "Ekranın sınav için çok küçük.",
+    "_FINAL_FINAL_SCORE": "Sonucunuz: [CPM] BGBM (bunlar [WPM] WPM'dir)",
+    "_FINAL_TEXT_WIN": "Tebrikler tüm [WORDS] kelimeleri yazdın!",
+    "_FINAL_TEXT_LOSE": "Aslında bu kadar sonucun çıktı: [RAW_CPM] CPM, şu kadar da yanlışın: [WRONG] ",
+    "_FINAL_BREAK": "2 dakika ara vermelisin bence, hak ettin.",
+    "words": [
+        "kelime", "yazmak", "vermek", "yapmak", "gitmek", "çocuk", "saymak",
+        "araba", "kamyon", "gelmek", "gittiniz", "sen", "ben", "sayı",
+        "ben", "altında", "burada", "ve", "aşama", "sanat", "yumuşak",
+    ]
+  }
